@@ -6,4 +6,4 @@ The KlebNET Metadata Repository Database is available for secondary analysis acc
 
 Metadata fields are described in the associated [scheme repository](https://github.com/klebgenomics/Klebsiella-genome-metadata).
 
-*To submit data* please follow the instructions [here](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#data-submission).
+**To submit data** please follow the instructions [here](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#data-submission).
