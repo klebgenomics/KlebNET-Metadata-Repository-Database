@@ -2,6 +2,8 @@
 
 The KlebNET Metadata Repository houses curated metadata describing publicly available _Klebsiella_ whole genome sequences. It is the product of a community-driven curation effort aimed at enhancing the usability and reusability of public genome collections for maximum knowledge gain. These efforts focus on _Klebsiella pneumoniae_ and its close relatives within the _K. pneumoniae_ Species Complex (KpSC), and are coordinated by the [KlebNET-GSP](https://klebnet.org/) project team.
 
+This open-access repository has been initiated and is supported by the KlebNET-GSP Epidemiology Consortium, coordinated by A/Prof Kelly Wyres (Monash University, Australia) on behalf of [KlebNET-GSP](https://klebnet.org/). Membership in the consortium requires contributing contextual metadata to this repository. If you wish to join, please read the [terms of reference](https://docs.google.com/document/d/12wuWxgucGVYnnKHZ8xvDCVLQhV0tEafCb2CuxClw0Hw/edit?usp=sharing) and complete the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSe9yoXfh0MP_tqvWh7RqxFKXr30MMAQkeZ_sxhEPyIsQX43dQ/viewform?usp=header). We may contact you in the future to enquire about the KpSC metadata you can provide.
+
 ## Data reuse policy
 
 The KlebNET Metadata Repository is available for secondary analysis in accordance with the principles of the [PHA4GE Microbial Data Sharing Accord](https://pha4ge.org/wp-content/uploads/2024/03/PHA4GE_Microbial_Data_Sharing_Accord_v1.0.pdf), with the following exceptions:
