@@ -9,7 +9,7 @@ This open-access repository has been initiated and is supported by the KlebNET-G
 The KlebNET Metadata Repository is available for secondary analysis in accordance with the principles of the [PHA4GE Microbial Data Sharing Accord](https://pha4ge.org/wp-content/uploads/2024/03/PHA4GE_Microbial_Data_Sharing_Accord_v1.0.pdf), with the following exceptions:
 
 -	**Clause 3** (Onward sharing of data): Inclusion of this database in external platforms is permitted, provided this statement is included.
-- **Clause 2** (Overview of outputs prior to publication)*: Applies only to a subset of the data where this clause has been waived by the data contributor
+- **Clause 2** (Overview of outputs prior to publication): Applies only to a subset of the data where this clause has been waived by the data contributor
 - **Clause 7** (Opportunity for collaboration): Also applies only to a subset of the data where this clause has been waived by the data contributor
 
 
@@ -28,6 +28,8 @@ The `PHA4GE accord` column indicates the clauses that apply to each isolate reco
 The data are tabulated and stored as a tab-delimited text file (.tsv) that can be read and manipulated with common data analysis platforms such as Python and R, and can be imported into spreadsheet programs such as Microsoft Excel or Google Sheets (we recommend using the 'import data' function, where you can specify that the data are tab-delimited). 
 
 Each row in the table represents a distinct whole genome sequence of a KpSC isolate. Column definitions are described in the [Klebsiella genome metadata scheme](https://github.com/klebgenomics/Klebsiella-genome-metadata).
+
+If you use the repository in your work please abide by the principles of the [PHA4GE Microbial Data Sharing Accord](https://pha4ge.org/wp-content/uploads/2024/03/PHA4GE_Microbial_Data_Sharing_Accord_v1.0.pdf), noting that clauses 2 and 7 are waived for only a subset of the data, in accordance with the data contributors' wishes.  
 
 ## Contribute to the Repository
 
