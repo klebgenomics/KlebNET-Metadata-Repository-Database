@@ -33,7 +33,7 @@ If you use the repository in your work please abide by the principles of the [PH
 
 ## Contribute to the Repository
 
-We welcome contributions from data generators globally. If you would like to contribute to the Klebsiella Metadata Repository, please follow the instructions [here](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#data-submission).
+We welcome contributions from data generators globally. If you would like to contribute to the KlebNET Metadata Repository, please follow the instructions [here](https://github.com/klebgenomics/Klebsiella-genome-metadata/blob/main/README.md#data-submission).
 
 ## Queries and suggestions
 
